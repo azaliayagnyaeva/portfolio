@@ -1,0 +1,10 @@
+{
+  "name": "azaliya-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.cjs",
+    "dev": "node server.cjs",
+    "check": "node --check script.js"
+  }
+}
